@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="elasticsearch-springboot:war">
+    <output-path>$PROJECT_DIR$/super-elasticsearch/elasticsearch-springboot/target</output-path>
+    <root id="archive" name="elasticsearch-springboot.war">
+      <element id="artifact" artifact-name="elasticsearch-springboot:war exploded" />
+    </root>
+  </artifact>
+</component>

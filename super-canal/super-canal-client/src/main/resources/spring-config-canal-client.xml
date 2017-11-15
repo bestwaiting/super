@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd"
+	default-autowire="byName">
+
+	<bean id="canalConsumer_A1" class="com.bestwaiting.canal.client.clientXML.CanalConsumer" init-method="init" destroy-method="stop" >
+		<property name="destination" value="A1" />
+		<property name="zkServers" value="192.168.1.81:2181,192.168.1.82:2181" />
+		<property name="processor">
+			<!-- 閰嶇疆鏁版嵁澶勭悊绫籯ey涓鸿〃鏄�,value涓哄鐞嗙被 涓築aseProcess瀛愮被-->
+			<map>
+				<entry key="goods" value-ref="goodsProcess"></entry>
+			</map>
+		</property>
+	</bean>
+	
+	<bean id="goodsProcess" class="com.bestwaiting.canal.client.process.GoodsProcess"></bean>
+	
+</beans>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="elasticsearch-spring" />
+        <module name="elasticsearch-springboot" />
+        <module name="super-activity" />
+        <module name="super-canal-client" />
+        <module name="super-canal-server" />
+        <module name="super-dao" />
+        <module name="super-dubbo-api" />
+        <module name="super-dubbo-consumer" />
+        <module name="super-dubbo-provider" />
+        <module name="super-kafka-client" />
+        <module name="super-kafka-consumer" />
+        <module name="super-lock" />
+        <module name="super-mail" />
+        <module name="super-multidao" />
+        <module name="super-netty" />
+        <module name="super-oss" />
+        <module name="super-rabbitmq" />
+        <module name="super-redis" />
+        <module name="super-shiro" />
+        <module name="super-utils" />
+        <module name="super-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="elasticsearch-spring" target="1.8" />
+      <module name="elasticsearch-springboot" target="1.8" />
+      <module name="super" target="1.8" />
+      <module name="super-activity" target="1.8" />
+      <module name="super-canal" target="1.8" />
+      <module name="super-canal-client" target="1.8" />
+      <module name="super-canal-server" target="1.8" />
+      <module name="super-dao" target="1.8" />
+      <module name="super-dubbo" target="1.8" />
+      <module name="super-dubbo-api" target="1.8" />
+      <module name="super-dubbo-consumer" target="1.8" />
+      <module name="super-dubbo-provider" target="1.8" />
+      <module name="super-elasticsearch" target="1.8" />
+      <module name="super-kafka" target="1.5" />
+      <module name="super-kafka-client" target="1.5" />
+      <module name="super-kafka-consumer" target="1.5" />
+      <module name="super-lock" target="1.8" />
+      <module name="super-mail" target="1.8" />
+      <module name="super-multidao" target="1.8" />
+      <module name="super-netty" target="1.8" />
+      <module name="super-oss" target="1.8" />
+      <module name="super-rabbitmq" target="1.8" />
+      <module name="super-redis" target="1.8" />
+      <module name="super-shiro" target="1.8" />
+      <module name="super-utils" target="1.8" />
+      <module name="super-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

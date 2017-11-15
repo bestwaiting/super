@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="super-web:war">
+    <output-path>$PROJECT_DIR$/super-web/target</output-path>
+    <root id="archive" name="super-web.war">
+      <element id="artifact" artifact-name="super-web:war exploded" />
+    </root>
+  </artifact>
+</component>

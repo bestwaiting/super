@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="super-kafka-client:war">
+    <output-path>$PROJECT_DIR$/super-kafka/super-kafka-producer/target</output-path>
+    <root id="archive" name="super-kafka-client.war">
+      <element id="artifact" artifact-name="super-kafka-client:war exploded" />
+    </root>
+  </artifact>
+</component>

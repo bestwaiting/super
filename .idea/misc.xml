@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/super-canal/super-canal-server" />
+    <file type="web" url="file://$PROJECT_DIR$/super-elasticsearch/elasticsearch-spring" />
+    <file type="web" url="file://$PROJECT_DIR$/super-elasticsearch/elasticsearch-springboot" />
+    <file type="web" url="file://$PROJECT_DIR$/super-kafka/super-kafka-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/super-kafka/super-kafka-producer" />
+    <file type="web" url="file://$PROJECT_DIR$/super-shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/super-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

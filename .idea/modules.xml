@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/super-elasticsearch/elasticsearch-spring/elasticsearch-spring.iml" filepath="$PROJECT_DIR$/super-elasticsearch/elasticsearch-spring/elasticsearch-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-elasticsearch/elasticsearch-springboot/elasticsearch-springboot.iml" filepath="$PROJECT_DIR$/super-elasticsearch/elasticsearch-springboot/elasticsearch-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super.iml" filepath="$PROJECT_DIR$/super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-activity/super-activity.iml" filepath="$PROJECT_DIR$/super-activity/super-activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-canal/super-canal.iml" filepath="$PROJECT_DIR$/super-canal/super-canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-canal/super-canal-client/super-canal-client.iml" filepath="$PROJECT_DIR$/super-canal/super-canal-client/super-canal-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-canal/super-canal-server/super-canal-server.iml" filepath="$PROJECT_DIR$/super-canal/super-canal-server/super-canal-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-dao/super-dao.iml" filepath="$PROJECT_DIR$/super-dao/super-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-dubbo/super-dubbo.iml" filepath="$PROJECT_DIR$/super-dubbo/super-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-dubbo/super-dubbo-api/super-dubbo-api.iml" filepath="$PROJECT_DIR$/super-dubbo/super-dubbo-api/super-dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-dubbo/super-dubbo-consumer/super-dubbo-consumer.iml" filepath="$PROJECT_DIR$/super-dubbo/super-dubbo-consumer/super-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-dubbo/super-dubbo-provider/super-dubbo-provider.iml" filepath="$PROJECT_DIR$/super-dubbo/super-dubbo-provider/super-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-elasticsearch/super-elasticsearch.iml" filepath="$PROJECT_DIR$/super-elasticsearch/super-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-kafka/super-kafka.iml" filepath="$PROJECT_DIR$/super-kafka/super-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-kafka/super-kafka-producer/super-kafka-client.iml" filepath="$PROJECT_DIR$/super-kafka/super-kafka-producer/super-kafka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-kafka/super-kafka-consumer/super-kafka-consumer.iml" filepath="$PROJECT_DIR$/super-kafka/super-kafka-consumer/super-kafka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-lock/super-lock.iml" filepath="$PROJECT_DIR$/super-lock/super-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-mail/super-mail.iml" filepath="$PROJECT_DIR$/super-mail/super-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-multidao/super-multidao.iml" filepath="$PROJECT_DIR$/super-multidao/super-multidao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-netty/super-netty.iml" filepath="$PROJECT_DIR$/super-netty/super-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-oss/super-oss.iml" filepath="$PROJECT_DIR$/super-oss/super-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-rabbitmq/super-rabbitmq.iml" filepath="$PROJECT_DIR$/super-rabbitmq/super-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-redis/super-redis.iml" filepath="$PROJECT_DIR$/super-redis/super-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-shiro/super-shiro.iml" filepath="$PROJECT_DIR$/super-shiro/super-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-utils/super-utils.iml" filepath="$PROJECT_DIR$/super-utils/super-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-web/super-web.iml" filepath="$PROJECT_DIR$/super-web/super-web.iml" />
+    </modules>
+  </component>
+</project>
